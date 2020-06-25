@@ -2,6 +2,13 @@
 ToMYSQL converts your correctly formatted Excel Spreadsheet into MYSQL table in specified Database
 <img src ="https://github.com/harsh212/ToMYSQL/blob/master/ss1.JPG">
 
+# Requirements
+<ul>
+  <li> Windows (x64)</li>
+  <li> Mingw Compiler </li>
+  <li> Qt5 </li
+</ul>
+
 ## Excel Formats
 Supports XLSX
 
