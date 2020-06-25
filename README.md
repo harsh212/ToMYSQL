@@ -19,5 +19,5 @@ Correctly format the excel sheet for proper functioning
 <a href="https://github.com/harsh212/ToMYSQL/blob/master/Capture.JPG" </a>
   Correct format 
 </h4>
-![IMG Page](capture.jpg)
+![alt text](capture.jpg)
 
